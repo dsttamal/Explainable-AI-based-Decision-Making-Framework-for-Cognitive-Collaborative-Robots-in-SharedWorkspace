@@ -1,0 +1,145 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# Model Files (too large for git)
+*.h5
+*.keras
+*.pb
+*.ckpt
+*.weights
+*.pt
+*.pth
+model_metadata.json
+trained_*.h5
+trained_*.keras
+best_*.h5
+best_*.keras
+
+# Dataset (too large for git)
+VOCdevkit/
+dataset/
+data/
+datasets/
+*.zip
+*.tar.gz
+*.tar
+*.rar
+
+# Logs and Databases
+*.log
+*.sqlite
+*.db
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.cache/
+temp/
+tmp/
+
+# TensorFlow
+*.ckpt.*
+checkpoint
+events.out.tfevents.*
+*.tflite
+*.tfrecord
+
+# Images and Media (if too many)
+# Uncomment if you don't want to track generated images
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.bmp
+# *.tiff
+
+# Test and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytype
+.pytype/
+
+# Documentation
+docs/_build/
+site/
+
+# Backup files
+*.bak
+*.backup
+*~.nib
+
+# my custom ignores
+SavModel/
+VOCdevkit/
+.tf_cache/
