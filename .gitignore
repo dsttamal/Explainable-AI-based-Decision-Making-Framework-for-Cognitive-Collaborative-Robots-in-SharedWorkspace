@@ -37,7 +37,6 @@ venv.bak/
 .idea_modules/
 
 # VS Code
-.vscode/
 *.code-workspace
 
 # Jupyter Notebook
@@ -143,3 +142,7 @@ site/
 SavModel/
 VOCdevkit/
 .tf_cache/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
