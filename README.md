@@ -661,8 +661,8 @@ The PASCAL VOC 2012 dataset is used for model training. Please refer to the [PAS
 
 ## 📮 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/your-repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/your-repo/discussions)
+- **Issues**: [GitHub Issues](https://github.com/dsttamal/Explainable-AI-based-Decision-Making-Framework-for-Cognitive-Collaborative-Robots-in-SharedWorkspace/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/dsttamal/Explainable-AI-based-Decision-Making-Framework-for-Cognitive-Collaborative-Robots-in-SharedWorkspace/discussions)
 
 ---
 
