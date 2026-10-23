@@ -143,3 +143,5 @@ site/
 SavModel/
 VOCdevkit/
 .tf_cache/
+VOC_XAI_Quick_Run/
+VOC_XAI_*
